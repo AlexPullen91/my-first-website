@@ -14,13 +14,15 @@ This website will be used by people in a rather large age bracket spanning early
 
 According to the [English Football Association's](http://www.thefa.com/get-involved/player/5-a-side-and-futsal) website over 1.5 million adults play small sided football every week, with 30,000 teams playing in organised and competitive small sided leagues. The primary user will likely be men in their late teens, 20s and 30s who want to be able to watch back footage of their games and share it with team mates, friends and family.
 
+It will be a single page site with a minimalist approach and green colour scheme that compliments the large photo backdrop of amatuer football pitches. Scrolling down will reveal more of the image and more site content. 
+
+Upon visiting ,the user will be greeted with a brief outline of what mambo is in very large comfortaa font. They will scroll down to reveal a video section, what we do section, pricing section and contact section. 
+
 ## User stories
 
 "I never see myself play football, I'd love to watch back and analyse my performances"
 
 "I can't show off my skills, I want to share clips on my social media"
-
-"I want an easy to use, intuitive service"
 
 "I want to find clear pricing information without having to dig for it"
 
